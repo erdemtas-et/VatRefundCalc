@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(rgb(88, 226, 185), rgb(0, 255, 179));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+
+
+}
+
+.header {
+    text-align: center;
+}
+
+.header img {
+    width: 12rem;
+}
+
+/* SELECT */
+
+select {
+    border: none;
+    color: #38B6FF;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    margin: auto;
+    outline: none;
+    padding: 10px 20px 10px 20px;
+    text-align-last: center;
+    width: 300px;
+}
+
+select:hover {
+    background-color: #f1f1f1;
+}
+
+
+
+/* SELECT */
+
+/*INPUT RATES*/
+.rates {
+    margin-top: 50px;
+}
+
+label {
+    color: #38B6FF;
+
+    font-family: Verdana,
+        Geneva,
+        Tahoma,
+        sans-serif;
+    font-weight: 800;
+
+}
+
+input[type="text"],
+input[type="number"] {
+    color: #38B6FF;
+    font-family: Verdana,
+        Geneva,
+        Tahoma,
+        sans-serif;
+    border: none;
+    font-size: 1.3rem;
+    margin-top: 5px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    width: 300px;
+
+
+}
+
+/* USER INPUT PART ENDED */
+#user-input {
+    margin-top: 50px;
+
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#user-spent::placeholder {
+    color: lightgrey;
+
+}
+
+.invisible-amount {
+    visibility: hidden;
+}
+
+/* USER INPUT PART ENDED*/
+
+/* --------------------- */
+/* Refund Total Part */
+h2 {
+    color: #38B6FF;
+    font-family: Verdana,
+        Geneva,
+        Tahoma,
+        sans-serif;
+    border: none;
+    font-size: 1.3rem;
+
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    width: 500px;
+}
+
+/* Refund Total Part */
+/* --------------------- */
+
+/*FOOTER*/
+.footer {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #38B6FF;
+    font-family: Verdana,
+        Geneva,
+        Tahoma,
+        sans-serif;
+    font-weight: 500;
+}

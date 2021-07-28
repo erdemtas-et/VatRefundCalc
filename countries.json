@@ -1,0 +1,166 @@
+{
+    "countries": [{
+            "name": "Austria",
+            "rate": 0.20,
+            "currency": "€"
+        },
+
+        {
+            "name": "Belgium",
+            "rate": 0.21,
+            "currency": "€"
+
+        },
+        {
+            "name": "Bulgaria",
+            "rate": 0.20,
+            "currency": "BGN"
+
+        },
+        {
+            "name": "Czech Republic",
+            "rate": 0.21,
+            "currency": "CZK"
+
+        },
+
+        {
+            "name": "Denmark",
+            "rate": 0.25,
+            "currency": "DKK"
+
+        },
+
+        {
+            "name": "Finland",
+            "rate": 0.24,
+            "currency": "€"
+
+        },
+
+        {
+            "name": "France",
+            "rate": 0.20,
+            "currency": "€"
+
+        },
+        {
+            "name": "Germany",
+            "rate": 0.19,
+            "currency": "€"
+
+        },
+        {
+            "name": "Greece",
+            "rate": 0.24,
+            "currency": "€"
+
+        },
+
+        {
+            "name": "Hungary",
+            "rate": 0.27,
+            "currency": "HUF"
+
+
+        },
+        {
+            "name": "Iceland",
+            "rate": 0.24,
+            "currency": "ISK"
+
+        },
+        {
+            "name": "Ireland",
+            "rate": 0.23,
+            "currency": "€"
+
+        },
+        {
+            "name": "Italy",
+            "rate": 0.22,
+            "currency": "€"
+
+        },
+        {
+            "name": "Latvia",
+            "rate": 0.21,
+            "currency": "€"
+
+        },
+        {
+            "name": "Luxembourg",
+            "rate": 0.17,
+            "currency": "€"
+
+        },
+        {
+            "name": "Netherlands",
+            "rate": 0.21,
+            "currency": "€"
+
+
+        },
+        {
+            "name": "Norway",
+            "rate": 0.25,
+            "currency": "NOK"
+
+        },
+        {
+            "name": "Poland",
+            "rate": 0.23,
+            "currency": "PLN"
+
+        },
+        {
+            "name": "Portugal",
+            "rate": 0.23,
+            "currency": "€"
+
+        },
+        {
+            "name": "Slovak Republic",
+            "rate": 0.20,
+            "currency": "€"
+
+        },
+        {
+            "name": "Slovenia",
+            "rate": 0.20,
+            "currency": "€"
+
+        },
+        {
+            "name": "Spain",
+            "rate": 0.21,
+            "currency": "€"
+
+        },
+        {
+            "name": "Sweden",
+            "rate": 0.25,
+            "currency": "SEK"
+        },
+
+        {
+            "name": "Switzerland",
+            "rate": 0.077,
+            "currency": "CHF"
+
+        },
+
+        {
+            "name": "Turkey",
+            "rate": 0.18,
+            "currency": "TRY"
+
+        },
+        {
+            "name": "United Kingdom",
+            "rate": 0.20,
+            "currency": "GBP"
+
+        }
+    ]
+}
