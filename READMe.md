@@ -8,7 +8,7 @@ The aim of this web app is to help EU citizen travellers to calculate their TAX 
 
 I have thought about the UX and UI first, so it is a simple one-page application that calculates refunds and does not have any commercial ads or text. 
 
-<a href="https://ibb.co/v1xHt7Q"><img width="500" src="https://i.ibb.co/8MD0hWd/Screen-Shot-2021-07-28-at-11-43-13.png" alt="Screen-Shot-2021-07-28-at-11-43-13" border="0"></a>
+<p align="center"><a href="https://ibb.co/v1xHt7Q"><img width="500" src="https://i.ibb.co/8MD0hWd/Screen-Shot-2021-07-28-at-11-43-13.png" alt="Screen-Shot-2021-07-28-at-11-43-13" border="0"></a></p>
 
 <a href="https://ibb.co/G7MnGCK"><img width="500" src="https://i.ibb.co/rkpFq5C/Screen-Shot-2021-07-28-at-11-43-28.png" alt="Screen-Shot-2021-07-28-at-11-43-28" border="0"></a>
 
