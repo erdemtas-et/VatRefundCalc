@@ -123,4 +123,4 @@ selectMenu.addEventListener("click", () => {
 
 ##FINAL
 
-<img src="https://im6.ezgif.com/tmp/ezgif-6-cf9e6c2489d5.gif" width="800" />
+
